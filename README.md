@@ -1,10 +1,14 @@
-<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/19/84/99/1984993a27934c0760c7c20975667f2b.gif" >
+<img align="right" width="400" height="400" src="https://github.com/gabrielf7/gabrielf7/blob/master/original-escanor.gif" >
  
 # Welcome!
  
 ## I'm Gabriel!
  
-… Insira suas descrições aqui!
+Frontend developer focused on Python, Javascripts | Analyst (ADS)
+
+Student of Systems Analysis and Development (3°) and Computer Technician for internet training (loading ... 2020)
+
+Technology enthusiast WEB $ _ $
  
  
 ## About me 
