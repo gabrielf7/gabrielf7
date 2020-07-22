@@ -1,4 +1,4 @@
-<img align="right" width="400" height="222" src="https://github.com/gabrielf7/gabrielf7/blob/master/AbcKgXf.gif" >
+<img align="right" width="250" height="250" src="https://data.whicdn.com/images/311246035/original.gif" >
  
 # Welcome!
  
