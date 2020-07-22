@@ -2,11 +2,11 @@
  
 # Welcome!
  
-## I'm Gabriel!
+## I'm Gabriel! A little about me :P
  
 Frontend developer focused on Python, Javascripts | Analyst (ADS)
 
-Student of Systems Analysis and Development (3°) and Computer Technician for internet training (loading ... 2020)
+Student of Systems Analysis and Development (3°) and Computer Technician for Internet training (loading... 2020)
 
 Technology enthusiast WEB $ _ $
  
