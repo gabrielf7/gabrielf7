@@ -1,4 +1,4 @@
-<img align="right" width="250" height="250" src="https://data.whicdn.com/images/311246035/original.gif" >
+<img align="right" width="400" height="400" src="https://i.pinimg.com/originals/19/84/99/1984993a27934c0760c7c20975667f2b.gif" >
  
 # Welcome!
  
