@@ -4,7 +4,9 @@
  
 ## I'm Gabriel! A little about me :P
  
-Frontend developer focused on Python, Javascripts | Analyst (ADS)
+Frontend developer focused on Javascripts, Reactjs and Bootstrap | Analyst (ADS)
+
+(Still learning: Databases with Mysql + PHP and Selenium with Python.) 
 
 Student of Systems Analysis and Development (3°) and Computer Technician for Internet training (loading... 2020)
 
