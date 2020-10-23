@@ -8,7 +8,7 @@ Frontend developer focused on Javascripts, Reactjs and Bootstrap | Analyst (ADS)
 
 (Still learning: Databases with Mysql + PHP and Selenium with Python.) 
 
-Student of Systems Analysis and Development (3°) and Computer Technician for Internet training (loading... 2020)
+Student of Systems Analysis and Development (4°) and Computer Technician for Internet training (loading... 2020)
 
 Technology enthusiast WEB $ _ $
  
