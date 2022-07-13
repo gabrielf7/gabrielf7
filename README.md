@@ -27,7 +27,7 @@ Jovem Entusiasta de tecnologia! Power 12h :sunny:
 ## Progresso
 
 <div>
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielf7&theme=vue"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielf7&theme=vue"/>
 </div>
 
 <!--
